@@ -7,5 +7,5 @@ case
 break continue
 comments
 commond line arguments
-read file line by line
+Read file line by line
 
